@@ -1,6 +1,8 @@
 # sidekick_with_null_safety
 
-A new Flutter project.
+기존의 flutter_sidekick 패키지에 null safety를 적용하여 리팩토링한 코드입니다.
+
+현재 codehannip_sample 내에서는 쓰고 있지 않기 때문에, 분리하여 따로 업데이트합니다.
 
 ## Getting Started
 
