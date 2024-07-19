@@ -1,7 +1,5 @@
 # sidekick_with_null_safety
 
-기존의 flutter_sidekick 패키지에 null safety를 적용하여 리팩토링한 코드입니다.
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
